@@ -1,13 +1,1 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg width="100%" height="100%" viewBox="0 0 500 500" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
-    <g transform="matrix(31.5551,0,0,31.4657,0,0)">
-        <use xlink:href="#_Image1" x="0" y="0" width="16px" height="16px"/>
-    </g>
-    <g transform="matrix(30.1523,0,0,30.1523,-12.3555,155.659)">
-        <text x="4.222px" y="10.42px" style="font-family:'Bebas-Regular', 'Bebas', sans-serif;font-size:20.833px;fill:rgb(19,20,24);">C</text>
-    </g>
-    <defs>
-        <image id="_Image1" width="16px" height="16px" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAHUlEQVQ4jWP8/4f7PwMFgIkSzaMGjBowasBgMgAAgwADJTV1e2gAAAAASUVORK5CYII="/>
-    </defs>
-</svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd"><svg width="100%" height="100%" viewBox="0 0 2084 2084" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;"><use xlink:href="#_Image1" x="0" y="0" width="17px" height="17px" transform="matrix(131.67,0,0,131.67,0,0)"/><path d="M1041.67,1979.45c-128.512,0 -232.711,-39.943 -312.596,-119.828c-79.886,-79.886 -119.829,-184.084 -119.829,-312.596l0,-1010.73c0,-128.511 39.943,-232.71 119.829,-312.596c79.885,-79.885 184.084,-119.828 312.596,-119.828c128.511,0 232.71,39.943 312.596,119.828c79.885,79.886 119.828,184.085 119.828,312.596l-0,213.608l-270.916,-0l-0,-213.608c-0,-52.099 -14.762,-93.778 -44.285,-125.038c-29.523,-31.26 -67.729,-46.889 -114.618,-46.889c-46.89,-0 -85.096,15.629 -114.619,46.889c-29.523,31.26 -44.284,72.939 -44.284,125.038l-0,1010.73c-0,52.099 14.761,93.779 44.284,125.038c29.523,31.26 67.729,46.89 114.619,46.89c46.889,-0 85.095,-15.63 114.618,-46.89c29.523,-31.259 44.285,-72.939 44.285,-125.038l-0,-260.497l270.916,0l-0,260.497c-0,128.512 -39.943,232.71 -119.828,312.596c-79.886,79.885 -184.085,119.828 -312.596,119.828Z" style="fill:#fff;fill-rule:nonzero;"/><defs><image id="_Image1" width="17px" height="17px" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABEAAAARCAYAAAA7bUf6AAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAJUlEQVQ4jWMUFpH4z0ABePvmBSMTJQbAwKgho4aMGjLUDaEKAADsbwQg7Xmz9gAAAABJRU5ErkJggg=="/></defs></svg>
