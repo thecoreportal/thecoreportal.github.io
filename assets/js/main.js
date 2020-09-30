@@ -9,7 +9,7 @@
     if (state === "dark") {
       body.setAttribute("data-theme", "dark");
       if (logo[0] != null){
-        logo[0].setAttribute("src", "assets/img/yellow.gif");
+        logo[0].setAttribute("src", "assets/img/dark.gif");
       }
     } else if (state === "light") {
       body.removeAttribute("data-theme");
@@ -32,7 +32,7 @@
       localStorage.setItem("theme", "dark");
       body.setAttribute("data-theme", "dark");
       if (logo[0] != null){
-        logo[0].setAttribute("src","assets/img/yellow.gif");
+        logo[0].setAttribute("src","assets/img/dark.gif");
       }
     } else {
       initTheme(state);
